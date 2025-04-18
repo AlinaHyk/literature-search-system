@@ -20,7 +20,7 @@ This project aims to develop an intelligent scientific literature search and ana
 - Automatically classify papers into meaningful topics using machine learning
 - Provide interactive navigation through the research landscape
 
-## 🛠️ Technical Approach
+## Technical Approach
 The system will utilize:
 - Advanced NLP techniques for query processing
 - Semantic embedding and vector similarity search
@@ -33,7 +33,7 @@ The prototype will focus on Frontiers psychology journals since they offer open 
 ## Long-Term Vision
 This project aims to demonstrate how academic publishers could enhance their platforms with intelligent search capabilities, improving discoverability of their published works and supporting more efficient research workflows.
 
-## 📋 Project Status
+## Project Status
 - [x] Initial project setup
 - [x] Requirements gathering
 - [ ] Data collection pipeline
@@ -43,5 +43,5 @@ This project aims to demonstrate how academic publishers could enhance their pla
 - [ ] Semantic clustering implementation
 - [ ] Interactive visualization
 
-## 📝 CS361 Course Project
+## CS361 Course Project
 This repository is being developed as part of the CS361 Software Engineering I course. The project will implement microservices architecture and follow agile development principles.
