@@ -45,3 +45,6 @@ This project aims to demonstrate how academic publishers could enhance their pla
 
 ## CS361 Course Project
 This repository is being developed as part of the CS361 Software Engineering I course. The project will implement microservices architecture and follow agile development principles.
+
+## Contribution Guidelines
+Interested in contributing to this project? We welcome collaboration! This project will evolve through several development phases during the CS361 course. Currently, we're focusing on setting up the core architecture and developing the initial search functionality. Check the Issues tab for specific tasks that need attention.
